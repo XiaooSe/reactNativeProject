@@ -1,0 +1,3 @@
+rootProject.name = 'secondNative'
+
+include ':app'
